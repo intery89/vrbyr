@@ -1,0 +1,2 @@
+# vrbyr
+Django structure Demo
